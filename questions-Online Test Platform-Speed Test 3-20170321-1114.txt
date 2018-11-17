@@ -1,0 +1,1044 @@
+// question: 0  name: Switch category to $system$/Default for System/Agriculture, Marketing, IT Combined/Speed Test 3
+$CATEGORY: $system$/Default for System/Agriculture, Marketing, IT Combined/Speed Test 3
+
+
+// question: 19186  name: 10 Yrs ago, Sita's mother was 4 times older than her daughter. After 10 yrs, ...
+::10 Yrs ago, Sita's mother was 4 times older than her daughter. After 10 yrs, ...::[html]10 Yrs ago, Sita's mother was 4 times older than her daughter. After 10 yrs, the mother will be two times older than the daughter. What is the present age of Sita{
+	~10 yrs
+	~30 yrs
+	=20 yrs
+	~40 yrs
+	~None of these
+}
+
+
+// question: 19124  name: 300 gm of sugar solution has 40% sugar in it. How much sugar should be added ...
+::300 gm of sugar solution has 40% sugar in it. How much sugar should be added ...::[html]300 gm of sugar solution has 40% sugar in it. How much sugar should be added to make it 50% in the solution{
+	~40 gm
+	~50 gm
+	=60 gm
+	~70 gm
+	~None of these
+}
+
+
+// question: 19147  name: A can contains a mixture of two liquids A and B in the ratio 7  5. When 9 ...
+::A can contains a mixture of two liquids A and B in the ratio 7  5. When 9 ...::[html]A can contains a mixture of two liquids A and B in the ratio 7  5. When 9 liter of mixture are drawn off and the can in filled with B, the ratio of A and B becomes 7  9. How many liters of liquid A was contained by the can initially{
+	~10
+	~20
+	=21
+	~25
+	~None of these
+}
+
+
+// question: 19133  name: A can contains a mixture of two liquids A and B inproportion 7  5. When 9 ...
+::A can contains a mixture of two liquids A and B inproportion 7  5. When 9 ...::[html]A can contains a mixture of two liquids A and B inproportion 7  5. When 9 liters of mixture are drawn off and the can is filled with B, the proportion of A and B becomes 79. How many liters of liquid A was contained by the can inititally{
+	~20l
+	~21 l
+	~30l
+	=36l
+	~None of these
+}
+
+
+// question: 19214  name: A club has 108 members. Two-thirds of them are men and the rest are women. ...
+::A club has 108 members. Two-thirds of them are men and the rest are women. ...::[html]A club has 108 members. Two-thirds of them are men and the rest are women. All members are married except for 9 women members. How many married women are there in the club{
+	~20
+	~24
+	=27
+	~30
+	~None of these
+}
+
+
+// question: 19129  name: A container contained 80 kg of milk. From this container, 8 kg of mil was ...
+::A container contained 80 kg of milk. From this container, 8 kg of mil was ...::[html]A container contained 80 kg of milk. From this container, 8 kg of mil was taken out and replaced by water. This process was further repeated two times. How much milk is now contained by the container{
+	~48 kg
+	~56 kg
+	=58.62 kg
+	~59.46 kg
+	~None of these
+}
+
+
+// question: 19132  name: A dishonest milkman professes to sell his milk at cost price but he mixes it ...
+::A dishonest milkman professes to sell his milk at cost price but he mixes it ...::[html]A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is _____{
+	~10%
+	~15%
+	~20%
+	=25%
+	~None of these
+}
+
+
+// question: 19205  name: A is two years older than his son. In two years, his age will be twice the ...
+::A is two years older than his son. In two years, his age will be twice the ...::[html]A is two years older than his son. In two years, his age will be twice the age of his son. The present age of the son is{
+	~7
+	~8
+	~9
+	=10
+	~11
+}
+
+
+// question: 19139  name: A jar contains a mixture of two liquids A and B in the ratio 41. When 10 ...
+::A jar contains a mixture of two liquids A and B in the ratio 41. When 10 ...::[html]A jar contains a mixture of two liquids A and B in the ratio 41. When 10 liters of liquid B is poured into the jar, the ratio becomes 23. How many liters of liquid A was contained in the jar{
+	~12l
+	~14l
+	~16l
+	=20l
+	~None of these
+}
+
+
+// question: 19191  name: A man's age is 125% of what it was 10 years, ago but 83 13 % of what it will ...
+::A man's age is 125% of what it was 10 years, ago but 83 13 % of what it will ...::[html]A man's age is 125% of what it was 10 years, ago but 83 13 % of what it will be after 10 years. What is his present age{
+	~30 yrs
+	~40 yrs
+	=50 yrs
+	~60 yrs
+	~None of these
+}
+
+
+// question: 19177  name: A merchant commences with a certain capital and gains annually at the rate of...
+::A merchant commences with a certain capital and gains annually at the rate of...::[html]A merchant commences with a certain capital and gains annually at the rate of 25 p.c. At the end of 3 years he has Rs. 10000. What was his original capital{
+	=5120
+	~5353
+	~5456
+	~5657
+	~5757
+}
+
+
+// question: 19123  name: A mixture of certain quantity of milk with 16 liters of water is worth 90 P ...
+::A mixture of certain quantity of milk with 16 liters of water is worth 90 P ...::[html]A mixture of certain quantity of milk with 16 liters of water is worth 90 P per liter. If pure milk be worth Rs. 1.08per liter, how much milk is there in the mixture{
+	~60
+	~70
+	=80
+	~90
+	~None of these
+}
+
+
+// question: 19126  name: A person has a chemical of Rs. 25 per liter. In what ratio should water be ...
+::A person has a chemical of Rs. 25 per liter. In what ratio should water be ...::[html]A person has a chemical of Rs. 25 per liter. In what ratio should water be mixed in that chemical so that after selling the mixture at Rs. 20liter he may get a profit of 25%{
+	~14
+	~15
+	=16
+	~17
+	~None of these
+}
+
+
+// question: 19165  name: A person lent at certain sum of money at 4% simple interest; and in 8 years ...
+::A person lent at certain sum of money at 4% simple interest; and in 8 years ...::[html]A person lent at certain sum of money at 4% simple interest; and in 8 years the interest amounted to Rs.340 less than the sum lent. Find the sum lent.{
+	=500
+	~600
+	~1000
+	~1500
+	~1700
+}
+
+
+// question: 19224  name: A player holds 13 cards of four suits, of which seven are black and six are ...
+::A player holds 13 cards of four suits, of which seven are black and six are ...::[html]A player holds 13 cards of four suits, of which seven are black and six are red. There are twice as many diamonds as spades and twice as many hearts as diamonds. How many clubs does the hold{
+	~4
+	~5
+	=6
+	~7
+	~None of these
+}
+
+
+// question: 19216  name: A railway half-ticket costs half the full fare. But the reservation charge on...
+::A railway half-ticket costs half the full fare. But the reservation charge on...::[html]A railway half-ticket costs half the full fare. But the reservation charge on the half-ticket is the same as that on full ticket. One reserved first-class ticket for a journey between two stations is Rs. 525 and the cost of one full and one-half reserved first class tickets is Rs. 850. What is the reservation charge{
+	=Rs. 125
+	~Rs. 200
+	~Rs. 145
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19176  name: A sum is invested at compound interest payable annually. The interest in two ...
+::A sum is invested at compound interest payable annually. The interest in two ...::[html]A sum is invested at compound interest payable annually. The interest in two successive years was Rs. 225 and Rs. 236.25. Find the rate of interest.{
+	~2%
+	~3%
+	~5%
+	=9%
+	~11%
+}
+
+
+// question: 19175  name: A sum of money at compound interest amounts in two years to Rs. 2809, and in ...
+::A sum of money at compound interest amounts in two years to Rs. 2809, and in ...::[html]A sum of money at compound interest amounts in two years to Rs. 2809, and in three years to Rs. 2977.54. Find the rate of interest and the original sum{
+	~2000
+	~2100
+	~2200
+	=2500
+	~3000
+}
+
+
+// question: 19163  name: A sum of money at simple interest amount Rs. 600 in 4 years and Rs. 650 in 6 ...
+::A sum of money at simple interest amount Rs. 600 in 4 years and Rs. 650 in 6 ...::[html]A sum of money at simple interest amount Rs. 600 in 4 years and Rs. 650 in 6 years. Find the rate of interest per annum.{
+	~3%
+	=5%
+	~9%
+	~10%
+	~15%
+}
+
+
+// question: 19159  name: A sum of Rs. 2600 is lent out in two parts in such a way that in interest on ...
+::A sum of Rs. 2600 is lent out in two parts in such a way that in interest on ...::[html]A sum of Rs. 2600 is lent out in two parts in such a way that in interest on one part at 10% for 5 years in equal to that on the other part at 9% for 6 years. The sum lent out at 10% is _____{
+	~1250
+	=1350
+	~1450
+	~1550
+	~1650
+}
+
+
+// question: 19127  name: A trader has 50 kg of rice, a part of which he sells at 14% profit and the ...
+::A trader has 50 kg of rice, a part of which he sells at 14% profit and the ...::[html]A trader has 50 kg of rice, a part of which he sells at 14% profit and the rest at 6% loss. On the whole his loss is 4%. What is the quantity sold at 14% profit and that at 6% loss{
+	~248
+	~446
+	=545
+	~743
+	~None of these
+}
+
+
+// question: 19128  name: A vessel of 80  liter is filled with milk and water. 70% of milk and 30% of ...
+::A vessel of 80  liter is filled with milk and water. 70% of milk and 30% of ...::[html]A vessel of 80  liter is filled with milk and water. 70% of milk and 30% of water is taken out of the vessel. It is found that the vessel is vacated by 55%. Find the initial quantity of milk and water.{
+	~2062
+	~3050
+	=5030
+	~6020
+	~None of these
+}
+
+
+// question: 19197  name: Abhay's age after six years will be three -seventh of his father's age. Ten ...
+::Abhay's age after six years will be three -seventh of his father's age. Ten ...::[html]Abhay's age after six years will be three -seventh of his father's age. Ten years ago, the ratio of their ages was 15. What is Abhay's father's age at present{
+	~30 yrs
+	~40 yrs
+	=50 yrs
+	~60 yrs
+	~70 years
+}
+
+
+// question: 19164  name: Arun and Ramu are friends. Arun borrowed a sum of Rs. 400 at 5% per annum ...
+::Arun and Ramu are friends. Arun borrowed a sum of Rs. 400 at 5% per annum ...::[html]Arun and Ramu are friends. Arun borrowed a sum of Rs. 400 at 5% per annum simple interest from Ramu He return the amount with interest after 2 years. Ramu returns to Arun 2% o the total amount returned. How mu did Arun receive{
+	~9
+	=8.80
+	~7.5
+	~7
+	~10.5
+}
+
+
+// question: 19150  name: Arun invested a sum of money at a certain rate of simple interest for a ...
+::Arun invested a sum of money at a certain rate of simple interest for a ...::[html]Arun invested a sum of money at a certain rate of simple interest for a period of for a period of four years. Had he invested the same sum for a period of six years the total interest earned by him would have been fifty per cent more than the earlier interest amount. What was the rate of interest per cent per annum{
+	~4
+	~8
+	~6
+	=Cannot be determined
+	~None of these
+}
+
+
+// question: 19160  name: At a certain rate of simple interest, a certain sum doubles itself in 10yrars...
+::At a certain rate of simple interest, a certain sum doubles itself in 10yrars...::[html]At a certain rate of simple interest, a certain sum doubles itself in 10yrars. It will treble itself in years _____{
+	~10
+	~20
+	~25
+	=30
+	~45
+}
+
+
+// question: 19183  name: Average age of 36 children of the class is 15 years. 12 more children joined ...
+::Average age of 36 children of the class is 15 years. 12 more children joined ...::[html]Average age of 36 children of the class is 15 years. 12 more children joined whose average age is 16 years. What is the average age of all the 48 children together{
+	=15.25 years
+	~15.5 years
+	~15.3 years
+	~1504 years
+	~None of these
+}
+
+
+// question: 19206  name: Eighteen years ago, a father was three times as old as his son. Now the ...
+::Eighteen years ago, a father was three times as old as his son. Now the ...::[html]Eighteen years ago, a father was three times as old as his son. Now the father is only twice as old as his son. Then the sum of the present ages of the son and the father is{
+	~54
+	~72
+	~105
+	=108
+	~116
+}
+
+
+// question: 19142  name: Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 ...
+::Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 ...::[html]Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg{
+	~1  3
+	=2  3
+	~3  4
+	~4  5
+	~None of these
+}
+
+
+// question: 19212  name: Ganeshi's monthly income is twice Jassi's monthly income. Two-third of ...
+::Ganeshi's monthly income is twice Jassi's monthly income. Two-third of ...::[html]Ganeshi's monthly income is twice Jassi's monthly income. Two-third of Jassi's monthly income is equal to Sukhvinder's monthly income. If Sukhvinder's annual income is Rs. 2.34 lakhs. What is Ganesh's monthly income{
+	~Rs. 14,625
+	~Rs. 29250
+	=Rs. 58500
+	~Rs. 28230
+	~None of these
+}
+
+
+// question: 19130  name: Gold is 19 times as heavy as water and copper 9 times. In what ratio should ...
+::Gold is 19 times as heavy as water and copper 9 times. In what ratio should ...::[html]Gold is 19 times as heavy as water and copper 9 times. In what ratio should these metals be mixed so that the mixture may be 15 times as heavy as water{
+	~12
+	=32
+	~23
+	~45
+	~None of these
+}
+
+
+// question: 19122  name: How many kg of salt at 42 P per kg must a man mix with 25 kg of salt at 24 ...
+::How many kg of salt at 42 P per kg must a man mix with 25 kg of salt at 24 ...::[html]How many kg of salt at 42 P per kg must a man mix with 25 kg of salt at 24 per kg so that he may, on selling the mixture at 40 P per kg gain 25% on the outlay{
+	~15
+	=20
+	~25
+	~30
+	~None of these
+}
+
+
+// question: 19131  name: How much water must be added to a cask which containes 40 liters of milk at ...
+::How much water must be added to a cask which containes 40 liters of milk at ...::[html]How much water must be added to a cask which containes 40 liters of milk at cost price Rs. 3.5 liters so that the cost of milk reduces to Rs. 2liter{
+	~20
+	~35
+	~45
+	~50
+	=None of these
+}
+
+
+// question: 19223  name: I have a few sweets to be distributed. If keep 2, 3 or 4 in a pack. I am left...
+::I have a few sweets to be distributed. If keep 2, 3 or 4 in a pack. I am left...::[html]I have a few sweets to be distributed. If keep 2, 3 or 4 in a pack. I am left with one sweet. If keep 5 in a pack. I am left with none. What is the minimum number of sweets  I have   to pack and distribute{
+	=25
+	~37
+	~54
+	~65
+	~None of these
+}
+
+
+// question: 19211  name: If 2x+3y=87 and 3x-3y=48, what is the value of x
+::If 2x+3y\=87 and 3x-3y\=48, what is the value of x::[html]If 2x+3y\=87 and 3x-3y\=48, what is the value of x{
+	~11
+	~29
+	~72
+	=28
+	~None of these
+}
+
+
+// question: 19203  name: If 6 years are subtracted from the present age of Gagan and the remainder is ...
+::If 6 years are subtracted from the present age of Gagan and the remainder is ...::[html]If 6 years are subtracted from the present age of Gagan and the remainder is divided by 18, then the present age of his grandson Anup is obtained. If Anup is 2 years younger to Madam whose age is 5 years, then what is Gagan's present age{
+	~48 years
+	=60 years
+	~84 years
+	~96 years
+	~100 years
+}
+
+
+// question: 19209  name: If 7x + 5y = 20 and 12x+5y-75, what is the value of xy
+::If 7x + 5y \= 20 and 12x+5y-75, what is the value of xy::[html]If 7x + 5y \= 20 and 12x+5y-75, what is the value of xy{
+	~25
+	~18
+	~30
+	~Cannot be determined
+	=None of these
+}
+
+
+// question: 19169  name: If the compound interest accrued on an amount or Rs. 14500 in two years is ...
+::If the compound interest accrued on an amount or Rs. 14500 in two years is ...::[html]If the compound interest accrued on an amount or Rs. 14500 in two years is 4676.25, what is the rate of interest p.c.p.a.{
+	~11
+	~9
+	=15
+	~18
+	~None of these
+}
+
+
+// question: 19179  name: If the simple interest on a certain sum of money for 3 years at 5% is Rs. ...
+::If the simple interest on a certain sum of money for 3 years at 5% is Rs. ...::[html]If the simple interest on a certain sum of money for 3 years at 5% is Rs. 150, find the corresponding CI{
+	=197
+	~157.62
+	~137.36
+	~117.17
+	~127.34
+}
+
+
+// question: 19213  name: In a class of 30 students and 2 teachers, each student got sweets that are ...
+::In a class of 30 students and 2 teachers, each student got sweets that are ...::[html]In a class of 30 students and 2 teachers, each student got sweets that are 20% of the total number of students and each teacher got sweets that are 30% of the total number of students. How many sweets were there{
+	~188
+	~180
+	~208
+	~178
+	=None of these
+}
+
+
+// question: 19215  name: In a class there are 18 boys who are over 160 cm tall. If these boys ...
+::In a class there are 18 boys who are over 160 cm tall. If these boys ...::[html]In a class there are 18 boys who are over 160 cm tall. If these boys constitute three fourths of the boys and the total number of boys is two-third of the number of students in the class, then what is the number of girls in the class{
+	~6
+	=12
+	~18
+	~24
+	~None of these
+}
+
+
+// question: 19195  name: In a family, a couple has a son and daughter. The age of the father is three ...
+::In a family, a couple has a son and daughter. The age of the father is three ...::[html]In a family, a couple has a son and daughter. The age of the father is three times that of his daughter and the age of the son is half of his mother. The wife is nine years younger to her husband and the brother is seven years older than his sister. What is the age of the mother{
+	~40 years
+	~45 years
+	~50 years
+	=60 years
+	~65 years
+}
+
+
+// question: 19225  name: In a family, the father took 14 of the cake and her had 3 times as much as ...
+::In a family, the father took 14 of the cake and her had 3 times as much as ...::[html]In a family, the father took 14 of the cake and her had 3 times as much as each of the other members had. The total number of family members is{
+	~3
+	~7
+	=10
+	~12
+	~None of these
+}
+
+
+// question: 19134  name: In a mixture of 60 liters, the ratio of milk to water is 21, then amount of ...
+::In a mixture of 60 liters, the ratio of milk to water is 21, then amount of ...::[html]In a mixture of 60 liters, the ratio of milk to water is 21, then amount of water to be further added is _____{
+	~20
+	~40
+	=60
+	~80
+	~None of these
+}
+
+
+// question: 19140  name: In a mixture of milk and water the proportion of water by weight was 75$. If ...
+::In a mixture of milk and water the proportion of water by weight was 75$. If ...::[html]In a mixture of milk and water the proportion of water by weight was 75$. If in 60 gm of mixture 15 gm water was added, what would be the percentage of water  (Weight in gm){
+	~75%
+	~88%
+	~90%
+	~100%
+	=None of these
+}
+
+
+// question: 19136  name: In three vessels each of 10 liters of 10 liters capacity, mixture of milk and...
+::In three vessels each of 10 liters of 10 liters capacity, mixture of milk and...::[html]In three vessels each of 10 liters of 10 liters capacity, mixture of milk and water is filled. The ratio of milk an water are 21, 31 and 32 in the three respective vessels, If all the three vessels are emptied into a single large vessels, find the proportion of milk and water in the mixture{
+	~181  49
+	~101  49
+	=121  59
+	~131  69
+	~None of these
+}
+
+
+// question: 19141  name: In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs...
+::In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs...::[html]In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 per kg{
+	~37
+	~57
+	=73
+	~75
+	~None of these
+}
+
+
+// question: 19135  name: In what ratio must a person mix three kinds of wheat costing him Rs. 1.20, Rs...
+::In what ratio must a person mix three kinds of wheat costing him Rs. 1.20, Rs...::[html]In what ratio must a person mix three kinds of wheat costing him Rs. 1.20, Rs. 1.44 and Rs. 1.74 per kg, so that the mixture may be worth Rs. 1.41 per kg{
+	~1  2  3
+	~4  5  7
+	=12 7  7
+	~13  7  9
+	~None of these
+}
+
+
+// question: 19145  name: In what ratio must grocer mix two varieties of tea worth Rs. 60 a kg and Rs. ...
+::In what ratio must grocer mix two varieties of tea worth Rs. 60 a kg and Rs. ...::[html]In what ratio must grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling the mixture at Rs. 68.20 a kg he my gain 10%{
+	=3  2
+	~3  4
+	~3  5
+	~4  5
+	~None of these
+}
+
+
+// question: 19143  name: In what ratio must tea at Rs. 62 per kg be mixed with tea at Rs. 72 per kg so...
+::In what ratio must tea at Rs. 62 per kg be mixed with tea at Rs. 72 per kg so...::[html]In what ratio must tea at Rs. 62 per kg be mixed with tea at Rs. 72 per kg so that the mixture must be worth Rs. 64.50 per kg{
+	=3  1
+	~3  2
+	~4  3
+	~5  3
+	~None of these
+}
+
+
+// question: 19144  name: In what ratio must water be mixed with milk costing Rs. 12 per liter to ...
+::In what ratio must water be mixed with milk costing Rs. 12 per liter to ...::[html]In what ratio must water be mixed with milk costing Rs. 12 per liter to obtain a mixture worth of Rs. 8 per liter{
+	=1  2
+	~2  1
+	~2  3
+	~3  2
+	~None of these
+}
+
+
+// question: 19138  name: Jayashree purchased 150 kg of wheat of the rate of Rs. 7 per kg. She sold ...
+::Jayashree purchased 150 kg of wheat of the rate of Rs. 7 per kg. She sold ...::[html]Jayashree purchased 150 kg of wheat of the rate of Rs. 7 per kg. She sold 50kg at a profit of 10%. At what rate per kg should she sell the remaining to get a profit of 20% on the total deal{
+	~6.50
+	=8.75
+	~7.50
+	~9.75
+	~None of these
+}
+
+
+// question: 19217  name: Krishna has some hens and some goats. If the total number of animal heads are...
+::Krishna has some hens and some goats. If the total number of animal heads are...::[html]Krishna has some hens and some goats. If the total number of animal heads are 81 and the total number of animal legs are 234, how many goats does Krishna have{
+	~45
+	~24
+	=36
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19155  name: Kruti took a loan at a simple interest rate of 6% in the first year with an ...
+::Kruti took a loan at a simple interest rate of 6% in the first year with an ...::[html]Kruti took a loan at a simple interest rate of 6% in the first year with an increase of 0.5% in each subsequent year. She paid interest of Rs. 3375 after your years. How much loan did she take{
+	=Rs. 12500
+	~Rs. 33140
+	~Rs. 15800
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19137  name: Milk and water are mixed in a vessel A in the proportion 52, and in vessel B ...
+::Milk and water are mixed in a vessel A in the proportion 52, and in vessel B ...::[html]Milk and water are mixed in a vessel A in the proportion 52, and in vessel B in the proportion 85. In what proportion should quantities be taken from the two vessels so as to form a mixture in which milk and water will be in the proportion of 94{
+	~45
+	~57
+	=72
+	~79
+	~None of these
+}
+
+
+// question: 19207  name: One year ago, Preeti was four times as old as her daughter Sonal. Six years ...
+::One year ago, Preeti was four times as old as her daughter Sonal. Six years ...::[html]One year ago, Preeti was four times as old as her daughter Sonal. Six years hence, Preeti's age will exceed her daughter's age by 9 years. The ratio of the present ages of Preeti and her daughter is{
+	~9  2
+	~1  3
+	~12  5
+	=13  4
+	~17  7
+}
+
+
+// question: 19210  name: Perimeter of a rectangle is 40cms and the length and the breadth are in the ...
+::Perimeter of a rectangle is 40cms and the length and the breadth are in the ...::[html]Perimeter of a rectangle is 40cms and the length and the breadth are in the ratio of 32 respectively. What is the area of rectangle in square cm{
+	~72
+	~98
+	~84
+	=96
+	~None of these
+}
+
+
+// question: 19182  name: Present age of Sudha and Neeta are in the ratio of 6  7 respectively. Five ...
+::Present age of Sudha and Neeta are in the ratio of 6  7 respectively. Five ...::[html]Present age of Sudha and Neeta are in the ratio of 6  7 respectively. Five years ago their ages were in the ratio of 56 respectively. What is Sudha's present age{
+	=30 years
+	~35 years
+	~40 years
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19194  name: Present ages of Rama an Shyma are in the ratio of 4  5 respectively. Five ...
+::Present ages of Rama an Shyma are in the ratio of 4  5 respectively. Five ...::[html]Present ages of Rama an Shyma are in the ratio of 4  5 respectively. Five years hence the ratio of their ages becomes 56 respectively, What is Rama's present age{
+	~25 years
+	~22 years
+	=20 years
+	~30 years
+	~None of these
+}
+
+
+// question: 19151  name: Rahit invested some amount at the rate of 6 pcpa and at the end of 2 yr he ...
+::Rahit invested some amount at the rate of 6 pcpa and at the end of 2 yr he ...::[html]Rahit invested some amount at the rate of 6 pcpa and at the end of 2 yr he got Rs. 8730 simple interest. How much compound interest he will get on same amount and same rate of interest after 2 yr.{
+	~Rs. 5820
+	~Rs, 5949.60
+	~Rs. 5900
+	=Rs. 5994.60
+	~None of these
+}
+
+
+// question: 19196  name: Ram's present age is three times his son's present age and two-fifth of his ...
+::Ram's present age is three times his son's present age and two-fifth of his ...::[html]Ram's present age is three times his son's present age and two-fifth of his father's present age. The average of the present ages of all of them is 46 years. What is the difference between the Ram's son's present age and Ram's father's present age{
+	~68 years
+	~88 years
+	~58 years
+	=Cannot be determined
+	~None of these
+}
+
+
+// question: 19162  name: Some amount out of Rs. 7000 was lent at 6% per annum and the remaining at 4% ...
+::Some amount out of Rs. 7000 was lent at 6% per annum and the remaining at 4% ...::[html]Some amount out of Rs. 7000 was lent at 6% per annum and the remaining at 4% per annum. If the total simple interest from both the fractions in 5 yrs. was Rs. 1600, find the sum lent at 6% per annum{
+	~1500
+	=2000
+	~2500
+	~3000
+	~5000
+}
+
+
+// question: 19166  name: Sonika invested an amount of Rs. 5800 for 2 years. At What rate of compound ...
+::Sonika invested an amount of Rs. 5800 for 2 years. At What rate of compound ...::[html]Sonika invested an amount of Rs. 5800 for 2 years. At What rate of compound interest will she get an amount of Rs. 594.5 at the end of two years{
+	=5 p.c.p.a.
+	~4 p.c.p.a.
+	~6 p.c.p.a.
+	~8 p.c.p.a.
+	~None of these
+}
+
+
+// question: 19199  name: Tanya's grandfather was 8 times older to her 16 years ago. He would be 3 ...
+::Tanya's grandfather was 8 times older to her 16 years ago. He would be 3 ...::[html]Tanya's grandfather was 8 times older to her 16 years ago. He would be 3 times of her age 8 years from now. Eight years ago, what was the ratio of Tanya's age to that of her grandfather{
+	~1  2
+	~1  6
+	~3  8
+	=11  53
+	~None of these
+}
+
+
+// question: 19187  name: Ten yrs ago, A was half of B in age. If the ratio of their present ages in ...
+::Ten yrs ago, A was half of B in age. If the ratio of their present ages in ...::[html]Ten yrs ago, A was half of B in age. If the ratio of their present ages in 34, what will be the total of their present ages{
+	~25
+	~35
+	~45
+	~50
+	=None of these
+}
+
+
+// question: 19185  name: The age of a man is 4 times that of his son. 5 yrs ago. The man was nine ...
+::The age of a man is 4 times that of his son. 5 yrs ago. The man was nine ...::[html]The age of a man is 4 times that of his son. 5 yrs ago. The man was nine times as old as his son was at that time. What is the present age of the man{
+	~28 yrs
+	=32 yrs
+	~40 yrs
+	~42 yrs
+	~None of these
+}
+
+
+// question: 19192  name: The age of a man is three times the sum of the ages of his two sons. Five ...
+::The age of a man is three times the sum of the ages of his two sons. Five ...::[html]The age of a man is three times the sum of the ages of his two sons. Five years hence, his age will be double of the sum of the ages of his sons. The father's present age is{
+	~40 years
+	=45 years
+	~50 years
+	~55 years
+	~65 years
+}
+
+
+// question: 19181  name: The average age of a lady and her daughter is 28.5. The ratio of their ages ...
+::The average age of a lady and her daughter is 28.5. The ratio of their ages ...::[html]The average age of a lady and her daughter is 28.5. The ratio of their ages is 14  5 respectively. What is the daughter's age{
+	~12 years
+	=15 years
+	~18 years
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19180  name: The average age of a man and his son is 16 years. The ratio of their ages is ...
+::The average age of a man and his son is 16 years. The ratio of their ages is ...::[html]The average age of a man and his son is 16 years. The ratio of their ages is 151 respectively. What is the son's age{
+	~30 years
+	~32 years
+	=2 years
+	~4 years
+	~None of these
+}
+
+
+// question: 19221  name: The bus fare for one person is Rs. 420 from  Agra to Aligrah and the train ...
+::The bus fare for one person is Rs. 420 from  Agra to Aligrah and the train ...::[html]The bus fare for one person is Rs. 420 from  Agra to Aligrah and the train fare between the same places for one person is equal to three-fourths the bus fare for two persons between the same places. What is the total fare paid by 3 persons travelling by bus and 4 persons travelling by train between the two plaes{
+	~Rs. 3360
+	~Rs. 3460
+	~Rs. 3440
+	~Rs. 3406
+	=None of these
+}
+
+
+// question: 19167  name: The compound interest earned by Suresh on a certain amount at the end of two ...
+::The compound interest earned by Suresh on a certain amount at the end of two ...::[html]The compound interest earned by Suresh on a certain amount at the end of two years at the rate of 8 p.c.p.a. was Rs. 1414.4. What was the total amount that Suresh got back at the end of two years in the form of principal plus interest earned{
+	~Rs. 9414.4
+	=Rs. 9914.4
+	~Rs. 9014.4
+	~Rs. 8914.4
+	~None of these
+}
+
+
+// question: 19219  name: The difference between a two-digit number and the number obtained by ...
+::The difference between a two-digit number and the number obtained by ...::[html]The difference between a two-digit number and the number obtained by interchanging the two digits of the number is 9. What is the difference between the two digits of the number{
+	~3
+	~2
+	=1
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19161  name: The difference between the interests received from two different banks on Rs....
+::The difference between the interests received from two different banks on Rs....::[html]The difference between the interests received from two different banks on Rs. 500 for 2 years is Rs. 2.50. The difference between their rates is _____{
+	~1%
+	~2%
+	~0.5%
+	=0.25%
+	~1.5%
+}
+
+
+// question: 19218  name: The difference between two numbers is 3 and the difference between their ...
+::The difference between two numbers is 3 and the difference between their ...::[html]The difference between two numbers is 3 and the difference between their squares is 63. Which is the larger number{
+	=12
+	~9
+	~15
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19208  name: The present age of the father and the son are in the ratio of 83. After 12 ...
+::The present age of the father and the son are in the ratio of 83. After 12 ...::[html]The present age of the father and the son are in the ratio of 83. After 12 years the ratio of their ages will be 21. What is the sum of the present age of the father and the son{
+	=66 yrs
+	~70 yrs
+	~74 yrs
+	~78 yrs
+	~80 yrs
+}
+
+
+// question: 19198  name: The present ages of three persons are in proportions 4  7  9. Eight years ...
+::The present ages of three persons are in proportions 4  7  9. Eight years ...::[html]The present ages of three persons are in proportions 4  7  9. Eight years ago, the sumof their ages was 56. Find their present ages (in years){
+	~8, 20, 28
+	=16, 28, 36
+	~20, 35, 45
+	~25, 30, 40
+	~None of these
+}
+
+
+// question: 19193  name: The ratio between the present ages of P and Q is 3  4 respectively. Four ...
+::The ratio between the present ages of P and Q is 3  4 respectively. Four ...::[html]The ratio between the present ages of P and Q is 3  4 respectively. Four years hence Q will be 56 years older than P. What is P;s present age{
+	=15 years
+	~20 years
+	~125 years
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19204  name: The ratio between the school ages of Neelam and Shaan is 5  6 respectively. ...
+::The ratio between the school ages of Neelam and Shaan is 5  6 respectively. ...::[html]The ratio between the school ages of Neelam and Shaan is 5  6 respectively. If the ratio between the one-third age of Neelam and half of Shaam's age is 5  9, then what is the school age of Shaan{
+	~25 years
+	~30 years
+	=Cannot be determined
+	~35 years
+	~None of these
+}
+
+
+// question: 19190  name: The ratio of Rita's age to the age of her mother is 311. The difference of ...
+::The ratio of Rita's age to the age of her mother is 311. The difference of ...::[html]The ratio of Rita's age to the age of her mother is 311. The difference of their ages is 24 yrs. What will be the ratio of their ages after 3 yrs{
+	~1  2
+	=1  3
+	~3  7
+	~2  5
+	~None of these
+}
+
+
+// question: 19189  name: The ratio of the father's age to the son's age is 4  1. The product of their ...
+::The ratio of the father's age to the son's age is 4  1. The product of their ...::[html]The ratio of the father's age to the son's age is 4  1. The product of their ages in 196. What will be the ratio of their ages after 3 yrs{
+	~7  3
+	~14  9
+	=11  4
+	~17  3
+	~None of these
+}
+
+
+// question: 19148  name: The simple interest accrued on a sum of certain principal is Rs. 2000 in five...
+::The simple interest accrued on a sum of certain principal is Rs. 2000 in five...::[html]The simple interest accrued on a sum of certain principal is Rs. 2000 in five years at the rate of 4% per annum. What would be the compound interest accrued on same principal at same rate in two years{
+	~Rs. 716
+	~Rs. 724
+	~Rs. 824
+	=Rs. 816
+	~None of these
+}
+
+
+// question: 19158  name: The simple interest accrued on an amount of Rs. 17000 at the end of four year...
+::The simple interest accrued on an amount of Rs. 17000 at the end of four year...::[html]The simple interest accrued on an amount of Rs. 17000 at the end of four year is Rs. 6800. What would be the compound interest accrued on the same amount at the same rate in the same period{
+	=Rs. 7889.7
+	~Rs, 8324
+	~Rs. 6990.5
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19156  name: The simple interest accrued on an amount of Rs. 40000 at the end of three ...
+::The simple interest accrued on an amount of Rs. 40000 at the end of three ...::[html]The simple interest accrued on an amount of Rs. 40000 at the end of three years Rs. 12000. What would be the compound interest accrued on the same amount at the same rate in the same period{
+	~Rs. 18765
+	~Rs. 15350
+	~Rs. 21555
+	=Rs. 13240
+	~None of these
+}
+
+
+// question: 19154  name: The simple interest accrued on an amount of Rs. 94000 at the end of 3 yr is ...
+::The simple interest accrued on an amount of Rs. 94000 at the end of 3 yr is ...::[html]The simple interest accrued on an amount of Rs. 94000 at the end of 3 yr is Rs. 30240. What would be the compound interest accrued on the same amount at the same rate in the same period{
+	~Rs. 30013.95
+	~Rs. 31013.95
+	~Rs. 32013.95
+	~Rs. 3301.95
+	=Rs. 34013.95
+}
+
+
+// question: 19174  name: The simple interest on a certain sum of money for 4 years at 4 per cent per ...
+::The simple interest on a certain sum of money for 4 years at 4 per cent per ...::[html]The simple interest on a certain sum of money for 4 years at 4 per cent per annum exceeds the compound interest on the same sum for 3 years at 5 per cent annum by Rs. 57. Find the sum{
+	=24000
+	~25000
+	~26000
+	~3000
+	~40000
+}
+
+
+// question: 19153  name: The smiple interest accured on an amout of Rs. 27500 at the end of three ...
+::The smiple interest accured on an amout of Rs. 27500 at the end of three ...::[html]The smiple interest accured on an amout of Rs. 27500 at the end of three years is Rs. 10230. What would be the approximate compound interest accrued on the same amount at the same rate in the same period{
+	=Rs. 11550
+	~Rs. 12620
+	~Rs. 10950
+	~Rs. 11900
+	~Rs. 13500
+}
+
+
+// question: 19202  name: The sum of the ages of 5 children born at the intervals of 3 years each is 50...
+::The sum of the ages of 5 children born at the intervals of 3 years each is 50...::[html]The sum of the ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child{
+	=4 years
+	~8 years
+	~10 years
+	~12 years
+	~None of these
+}
+
+
+// question: 19200  name: The sum of the ages of a father and his son is 45 years. Five years ago, the ...
+::The sum of the ages of a father and his son is 45 years. Five years ago, the ...::[html]The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages is 34. Find the present age of father{
+	~32 years
+	~36 years
+	~38 years
+	=40 years
+	~39 years
+}
+
+
+// question: 19201  name: The sum of the ages of a father and his son is 45 years. Five years ago, the ...
+::The sum of the ages of a father and his son is 45 years. Five years ago, the ...::[html]The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages is 34. Find the present age of father{
+	~32 years
+	~36 years
+	~38 years
+	~40 years
+	=39 years
+}
+
+
+// question: 19188  name: The sum of the ages of a mother and her daughter is 50 yrs. Also 58 yrs ago, ...
+::The sum of the ages of a mother and her daughter is 50 yrs. Also 58 yrs ago, ...::[html]The sum of the ages of a mother and her daughter is 50 yrs. Also 58 yrs ago, the mother's age was 7 times the age of the daughter. What are the present ages of the mother and the daughter{
+	~35.5
+	=40.10
+	~30.20
+	~25.15
+	~None of these
+}
+
+
+// question: 19125  name: There are 65 students in a class. 39 rupees are distributed among them so ...
+::There are 65 students in a class. 39 rupees are distributed among them so ...::[html]There are 65 students in a class. 39 rupees are distributed among them so that each boy gets 80 P and each girl gets 30 P. Find the number o boys and girls in that class{
+	~45, 20
+	~40, 25
+	=39, 26
+	~29, 36
+	~None of these
+}
+
+
+// question: 19220  name: There are some parrots and some tigers in a forest. If the total number of ...
+::There are some parrots and some tigers in a forest. If the total number of ...::[html]There are some parrots and some tigers in a forest. If the total number of animal heads in the forest is 858 and the total number of animal legs is 1846. What is the number of parrots in the forest{
+	~845
+	~833
+	~800
+	~Cannot be determined
+	=None of these
+}
+
+
+// question: 19222  name: Two bus tickets from city A to B and three tickets from city A to C cost Rs. ...
+::Two bus tickets from city A to B and three tickets from city A to C cost Rs. ...::[html]Two bus tickets from city A to B and three tickets from city A to C cost Rs. 77 but three tickets from city A to B and two tickets from city A to C cost Rs. 73. What are the fares for cities B and C from A{
+	~Rs. 4, Rs. 23
+	=Rs. 13, Rs. 17
+	~Rs. 15, Rs. 14
+	~Rs. 17, Rs. 13
+	~None of these
+}
+
+
+// question: 19146  name: Two vessels A and B contain spirit and water mixed in the ratio 5  2 and 7  6...
+::Two vessels A and B contain spirit and water mixed in the ratio 5  2 and 7  6...::[html]Two vessels A and B contain spirit and water mixed in the ratio 5  2 and 7  6 respectively. Find  the ratio in which these mixture be mixed to obtain a new mixture in vessel C containing spirit and water in the ratio 85{
+	~4  3
+	~3  4
+	~5  6
+	=7  9
+	~None of these
+}
+
+
+// question: 19184  name: Two years ago the ration of the ages of Swati and Khyati was 57 respectively....
+::Two years ago the ration of the ages of Swati and Khyati was 57 respectively....::[html]Two years ago the ration of the ages of Swati and Khyati was 57 respectively. Two years hence the ratio of their ages will be 79 respectively. What is the present age of Khyati{
+	=15 years
+	~14.5 years
+	~12 years
+	~Cannot be determined
+	~None of these
+}
+
+
+// question: 19157  name: Vishwas borrowed a total amount of Rs. 30000, part of it on simple interest ...
+::Vishwas borrowed a total amount of Rs. 30000, part of it on simple interest ...::[html]Vishwas borrowed a total amount of Rs. 30000, part of it on simple interest rate of 12% per annum and remaining on simple interest rate of 10% per annum. If at the end of 7 yr he paid in all Rs. 36480 to settle the loan amount, what was the amount borrowed at 12% per annum{
+	~Rs. 16000
+	~Rs. 18000
+	~Rs. 17500
+	=Rs. 12000
+	~None of these
+}
+
+
+// question: 19152  name: What amount a man would have received on a principal of Rs. 4000 after two yr...
+::What amount a man would have received on a principal of Rs. 4000 after two yr...::[html]What amount a man would have received on a principal of Rs. 4000 after two yr simple interest @ 5% per annum{
+	~Rs. 4161
+	~Rs. 5200
+	=Rs. 4410
+	~Rs. 4100
+	~Rs. 4190
+}
+
+
+// question: 19178  name: What sum of money at compound interest will amount to Rs. 2249.52 in 3 years ...
+::What sum of money at compound interest will amount to Rs. 2249.52 in 3 years ...::[html]What sum of money at compound interest will amount to Rs. 2249.52 in 3 years if the rate of interest is 3% for the first year, 4% for the second year, and 5% for the third year{
+	=2000
+	~4000
+	~3000
+	~5000
+	~7000
+}
+
+
+// question: 19149  name: What total amount would Mithilesh get at the end of three years if he invests...
+::What total amount would Mithilesh get at the end of three years if he invests...::[html]What total amount would Mithilesh get at the end of three years if he invests an amount of Rs. 11200 in a scheme, which offers simple interest 8.5% pr annum for three years{
+	=Rs. 14056
+	~Rs. 14348
+	~Rs. 13852
+	~Rs. 15064
+	~None of these
+}
+
+
+// question: 19172  name: What will be the compound interest accrued on an amount of Rs. 100000@ per ...
+::What will be the compound interest accrued on an amount of Rs. 100000@ per ...::[html]What will be the compound interest accrued on an amount of Rs. 100000@ per annum in two years if  the interest is compounded half-yearly{
+	~Rs. 4400
+	~Rs. 4600
+	=Rs. 4641
+	~Rs. 4680
+	~None of these
+}
+
+
+// question: 19173  name: What will be the difference between the simple interest and compound interest...
+::What will be the difference between the simple interest and compound interest...::[html]What will be the difference between the simple interest and compound interest earned on a sum of Rs. 985.00 at the rate of 14% per annum at the end of two years{
+	~Rs. 16.408
+	~Rs, 14.214
+	~Rs. 19.218
+	~Rs. 17.405
+	=None of these
+}
+
+
+// question: 19170  name: What would be the compound interest accrued on a amount or Rs. 8000 at the ...
+::What would be the compound interest accrued on a amount or Rs. 8000 at the ...::[html]What would be the compound interest accrued on a amount or Rs. 8000 at the rate of 15% per annum in three years{
+	~Rs. 4283
+	~Rs. 4051
+	~Rs. 4167
+	~Rs. 4325
+	=None of these
+}
+
+
+// question: 19168  name: What would be the compound interest accrued on an amount of Rs. 7400 @ 13.5 p...
+::What would be the compound interest accrued on an amount of Rs. 7400 @ 13.5 p...::[html]What would be the compound interest accrued on an amount of Rs. 7400 @ 13.5 p.c.p.a. at the end of two years (Rounded off to two digits after decimal){
+	~Rs. 2136.87
+	~Rs. 2306.81
+	~Rs. 2032.18
+	=Rs. 2132.87
+	~None of these
+}
+
+
+// question: 19171  name: What would be the compound interest accrued on an amount of Rs. 7850 at the ...
+::What would be the compound interest accrued on an amount of Rs. 7850 at the ...::[html]What would be the compound interest accrued on an amount of Rs. 7850 at the rate of 14% per annum in two years{
+	=Rs. 2351.86
+	~Rs. 2880.37
+	~Rs. 2518.22
+	~Rs. 2290.23
+	~Rs. 34013.95
+}
+
+

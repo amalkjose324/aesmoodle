@@ -1,0 +1,581 @@
+
+
+
+// question: 18650  name: Choose the correct antonym for: BEFRIENDED
+::Choose the correct antonym for\: BEFRIENDED::[html]Choose the correct antonym for\: BEFRIENDED{
+	~Recoiled
+	~Killed
+	~Accepted
+	~Mistrusted
+	=Ignored
+}
+
+
+// question: 18653  name: Choose the correct antonym for: CHARMED
+::Choose the correct antonym for\: CHARMED::[html]Choose the correct antonym for\: CHARMED{
+	~Offended
+	~Stunned
+	=Repulsed
+	~Jealous
+	~Outranged
+}
+
+
+// question: 18648  name: Choose the correct antonym for: DETERIORATED
+::Choose the correct antonym for\: DETERIORATED::[html]Choose the correct antonym for\: DETERIORATED{
+	~Reduced
+	~Moderated
+	~Depreciated
+	~Encouraged
+	=Recovered
+}
+
+
+// question: 18651  name: Choose the correct antonym for: FRAIL
+::Choose the correct antonym for\: FRAIL::[html]Choose the correct antonym for\: FRAIL{
+	~Unhealthy
+	~Massive
+	~Rich
+	=Robust
+	~Civilized
+}
+
+
+// question: 18645  name: Choose the correct antonym for: REINFORCING
+::Choose the correct antonym for\: REINFORCING::[html]Choose the correct antonym for\: REINFORCING{
+	=Contradicting
+	~Wishing
+	~Jolting
+	~Forcing
+	~Re-inventing
+}
+
+
+// question: 18647  name: Choose the correct antonym for: SHRANK
+::Choose the correct antonym for\: SHRANK::[html]Choose the correct antonym for\: SHRANK{
+	~Hope
+	~Depended
+	=Grew
+	~Pretended
+	~Integrated
+}
+
+
+// question: 18646  name: Choose the correct antonym for: SLUMP
+::Choose the correct antonym for\: SLUMP::[html]Choose the correct antonym for\: SLUMP{
+	~Output
+	=Rise
+	~Slide
+	~Slack
+	~Input
+}
+
+
+// question: 18652  name: Choose the correct antonym for: SPLENDIDLY
+::Choose the correct antonym for\: SPLENDIDLY::[html]Choose the correct antonym for\: SPLENDIDLY{
+	~Wisely
+	~Unfairly
+	~Rudely
+	~Reluctantly
+	=Unimpressively
+}
+
+
+// question: 18635  name: Choose the correct synonym for: ABSTINENCE
+::Choose the correct synonym for\: ABSTINENCE::[html]Choose the correct synonym for\: ABSTINENCE{
+	~Synchronic
+	~Torrential
+	~Restraint
+	=Gluttony
+	~None of these
+}
+
+
+// question: 18641  name: Choose the correct synonym for: ANNEX
+::Choose the correct synonym for\: ANNEX::[html]Choose the correct synonym for\: ANNEX{
+	=Add
+	~Low
+	~Copy
+	~Initial
+	~None of these
+}
+
+
+// question: 18634  name: Choose the correct synonym for: ATTENUATE
+::Choose the correct synonym for\: ATTENUATE::[html]Choose the correct synonym for\: ATTENUATE{
+	~Repent
+	=Make thin
+	~Force
+	~Divide
+	~None of these
+}
+
+
+// question: 18632  name: Choose the correct synonym for: BEQUEST
+::Choose the correct synonym for\: BEQUEST::[html]Choose the correct synonym for\: BEQUEST{
+	~Parsimony
+	~Matrimony
+	=Heritage
+	~Patrimony
+	~None of these
+}
+
+
+// question: 18637  name: Choose the correct synonym for: BLITHE
+::Choose the correct synonym for\: BLITHE::[html]Choose the correct synonym for\: BLITHE{
+	~Joyless
+	~Grudging
+	~Somnolent
+	=Cheerful
+	~None of these
+}
+
+
+// question: 18638  name: Choose the correct synonym for: CAPTIVATE
+::Choose the correct synonym for\: CAPTIVATE::[html]Choose the correct synonym for\: CAPTIVATE{
+	~Repel
+	~Subjugate
+	~Dangerous
+	=Fascinate
+	~None of these
+}
+
+
+// question: 18640  name: Choose the correct synonym for: FORESEE
+::Choose the correct synonym for\: FORESEE::[html]Choose the correct synonym for\: FORESEE{
+	~Contemplate
+	=Visualize
+	~Assume
+	~Hypothesis
+	~None of these
+}
+
+
+// question: 18630  name: Choose the correct synonym for: HAUGHTY
+::Choose the correct synonym for\: HAUGHTY::[html]Choose the correct synonym for\: HAUGHTY{
+	~imperial
+	=imperious
+	~adamant
+	~empires
+	~none of these
+}
+
+
+// question: 18639  name: Choose the correct synonym for: HONORARY
+::Choose the correct synonym for\: HONORARY::[html]Choose the correct synonym for\: HONORARY{
+	~Honest
+	~Dignified
+	=Unpaid
+	~Praiseworthy
+	~None of these
+}
+
+
+// question: 18644  name: Choose the correct synonym for: IMMINENT
+::Choose the correct synonym for\: IMMINENT::[html]Choose the correct synonym for\: IMMINENT{
+	~Eminent
+	~Immediate
+	~Future
+	=Impending
+	~None of these
+}
+
+
+// question: 18643  name: Choose the correct synonym for: INFIRMITY
+::Choose the correct synonym for\: INFIRMITY::[html]Choose the correct synonym for\: INFIRMITY{
+	~Disease
+	~Malady
+	=Weakness
+	~Slimness
+	~None of these
+}
+
+
+// question: 18631  name: Choose the correct synonym for: LOQUACIOUS
+::Choose the correct synonym for\: LOQUACIOUS::[html]Choose the correct synonym for\: LOQUACIOUS{
+	~victorian
+	~bombastic
+	=verbose
+	~ambiguous
+	~None of these
+}
+
+
+// question: 18642  name: Choose the correct synonym for: MENAGE
+::Choose the correct synonym for\: MENAGE::[html]Choose the correct synonym for\: MENAGE{
+	~Suffocation
+	~System
+	~Law
+	=Household
+	~None of these
+}
+
+
+// question: 18633  name: Choose the correct synonym for: RECUPERATE
+::Choose the correct synonym for\: RECUPERATE::[html]Choose the correct synonym for\: RECUPERATE{
+	~Recapture
+	~Reclaim
+	=Recover
+	~Regain
+	~None of these
+}
+
+
+// question: 18636  name: Choose the correct synonym for: TACITURNITY
+::Choose the correct synonym for\: TACITURNITY::[html]Choose the correct synonym for\: TACITURNITY{
+	~Dumbness
+	~Changeableness
+	~Hesitation
+	=Reserve
+	~None of these
+}
+
+
+// question: 18662  name: Choose the one which can be substituted for the given words/sentence: ...
+::Choose the one which can be substituted for the given words/sentence\: ...::[html]Choose the one which can be substituted for the given words/sentence\: Stealing from the writings of others{
+	~Copying
+	~Reframing
+	~Reproducing
+	=Plagiarism
+	~None of these
+}
+
+
+// question: 18663  name: Choose the one which can be substituted for the given words/sentence: ...
+::Choose the one which can be substituted for the given words/sentence\: ...::[html]Choose the one which can be substituted for the given words/sentence\: Constant effort to achieve something{
+	~Perseverance
+	=Attempt
+	~Enthusiasm
+	~Vigour
+	~None of these
+}
+
+
+// question: 18664  name: Choose the one which can be substituted for the given words/sentence: A ...
+::Choose the one which can be substituted for the given words/sentence\: A ...::[html]Choose the one which can be substituted for the given words/sentence\: A person not sure of the existence of God{
+	~Theist
+	~Atheist
+	~Agnostic
+	=Cynic
+	~None of these
+}
+
+
+// question: 18686  name: Choose the one which can be substituted for the given words/sentence: A ...
+::Choose the one which can be substituted for the given words/sentence\: A ...::[html]Choose the one which can be substituted for the given words/sentence\: A careful preservation and protection of wildlife is the need of the hour.{
+	~Embarkment
+	~Promotion
+	=Conservation
+	~Management
+	~Enhancement
+}
+
+
+// question: 18685  name: Choose the one which can be substituted for the given words/sentence: A man ...
+::Choose the one which can be substituted for the given words/sentence\: A man ...::[html]Choose the one which can be substituted for the given words/sentence\: A man can be sentenced to death for killing another human being.{
+	~Fratricide
+	~Regicide
+	=homecide
+	~Genocide
+	~None of these
+}
+
+
+// question: 18669  name: Choose the one which can be substituted for the given words/sentence: Be the ...
+::Choose the one which can be substituted for the given words/sentence\: Be the ...::[html]Choose the one which can be substituted for the given words/sentence\: Be the embodiment or perfect example of{
+	~Signify
+	~Characterise
+	=Personify
+	~Masquerade
+	~None of these
+}
+
+
+// question: 18674  name: Choose the one which can be substituted for the given words/sentence: Code of...
+::Choose the one which can be substituted for the given words/sentence\: Code of...::[html]Choose the one which can be substituted for the given words/sentence\: Code of diplomatic etiquette and precedence{
+	~Formalism
+	~Statesmanship
+	=Protocol
+	~Hierarchy
+	~None of these
+}
+
+
+// question: 18670  name: Choose the one which can be substituted for the given words/sentence: Cutting...
+::Choose the one which can be substituted for the given words/sentence\: Cutting...::[html]Choose the one which can be substituted for the given words/sentence\: Cutting for stone in the bladder{
+	~Dichotomy
+	~Tubectomy
+	~Vasectomy
+	=Lithotomy
+	~None of these
+}
+
+
+// question: 18680  name: Choose the one which can be substituted for the given words/sentence: He ...
+::Choose the one which can be substituted for the given words/sentence\: He ...::[html]Choose the one which can be substituted for the given words/sentence\: He spent a long time cutting all the waste paper into pieces.{
+	~Slashing
+	~Ripping
+	=Shredding
+	~Disposing
+	~None of these
+}
+
+
+// question: 18688  name: Choose the one which can be substituted for the given words/sentence: He does...
+::Choose the one which can be substituted for the given words/sentence\: He does...::[html]Choose the one which can be substituted for the given words/sentence\: He does unpaid work for the Red Cross{
+	~Honorific
+	~Honest
+	=Honorary
+	~Honourable
+	~None of these
+}
+
+
+// question: 18677  name: Choose the one which can be substituted for the given words/sentence: Land so...
+::Choose the one which can be substituted for the given words/sentence\: Land so...::[html]Choose the one which can be substituted for the given words/sentence\: Land so surrounded by water as to be almost an island{
+	~Archipelago
+	~Isthmus
+	=Peninsula
+	~Lagoon
+	~None of these
+}
+
+
+// question: 18660  name: Choose the one which can be substituted for the given words/sentence: List of...
+::Choose the one which can be substituted for the given words/sentence\: List of...::[html]Choose the one which can be substituted for the given words/sentence\: List of headings of the business to be transacted at a meeting{
+	~Schedule
+	=Agenda
+	~Proceedings
+	~Excerpts
+	~None of these
+}
+
+
+// question: 18675  name: Choose the one which can be substituted for the given words/sentence: Of ...
+::Choose the one which can be substituted for the given words/sentence\: Of ...::[html]Choose the one which can be substituted for the given words/sentence\: Of outstanding significance{
+	~Meaningful
+	~Ominous
+	~Evident
+	=Monumental
+	~Rational
+}
+
+
+// question: 18668  name: Choose the one which can be substituted for the given words/sentence: One ...
+::Choose the one which can be substituted for the given words/sentence\: One ...::[html]Choose the one which can be substituted for the given words/sentence\: One desirous of getting money{
+	=Avaracious
+	~Voracious
+	~Garrulous
+	~Greedy
+	~None of these
+}
+
+
+// question: 18665  name: Choose the one which can be substituted for the given words/sentence: One who...
+::Choose the one which can be substituted for the given words/sentence\: One who...::[html]Choose the one which can be substituted for the given words/sentence\: One who deserts his religion?{
+	~Deserter
+	~Turn-coat
+	~Fanatic
+	=Apostate
+	~None of these
+}
+
+
+// question: 18666  name: Choose the one which can be substituted for the given words/sentence: One who...
+::Choose the one which can be substituted for the given words/sentence\: One who...::[html]Choose the one which can be substituted for the given words/sentence\: One who uses fear as a weapon of power{
+	=Terrorist
+	~Militant
+	~Extremist
+	~Anarchist
+	~None of these
+}
+
+
+// question: 18673  name: Choose the one which can be substituted for the given words/sentence: One who...
+::Choose the one which can be substituted for the given words/sentence\: One who...::[html]Choose the one which can be substituted for the given words/sentence\: One who has suddenly gained new wealth, Power or prestige{
+	~Aristocrat
+	~Affluent
+	~Maverick
+	=Parvenu
+	~None of these
+}
+
+
+// question: 18676  name: Choose the one which can be substituted for the given words/sentence: One who...
+::Choose the one which can be substituted for the given words/sentence\: One who...::[html]Choose the one which can be substituted for the given words/sentence\: One who promotes the idea of absence of government of any kind, when every man should be a low into himself{
+	=Anarchist
+	~Belligerent
+	~Iconoclast
+	~Agnostic
+	~None of these
+}
+
+
+// question: 18679  name: Choose the one which can be substituted for the given words/sentence: One who...
+::Choose the one which can be substituted for the given words/sentence\: One who...::[html]Choose the one which can be substituted for the given words/sentence\: One who travels from place to place{
+	=Itinerant
+	~Mendicant
+	~Journeyman
+	~Tramp
+	~None of these
+}
+
+
+// question: 18682  name: Choose the one which can be substituted for the given words/sentence: Rajesh ...
+::Choose the one which can be substituted for the given words/sentence\: Rajesh ...::[html]Choose the one which can be substituted for the given words/sentence\: Rajesh was a hater of learning and knowledge{
+	~Misogynist
+	=Misologist
+	~Misanthropist
+	~Bibliophile
+	~None of these
+}
+
+
+// question: 18683  name: Choose the one which can be substituted for the given words/sentence: Ravi ...
+::Choose the one which can be substituted for the given words/sentence\: Ravi ...::[html]Choose the one which can be substituted for the given words/sentence\: Ravi impressed everyone with his persuasive and fluent speech.{
+	~Discourse
+	~Expression
+	=Eloquence
+	~Lecture
+	~None of these
+}
+
+
+// question: 18671  name: Choose the one which can be substituted for the given words/sentence: That ...
+::Choose the one which can be substituted for the given words/sentence\: That ...::[html]Choose the one which can be substituted for the given words/sentence\: That which makes it difficult o recognise the presence of real nature of somebody or something{
+	~Cover
+	~Mask
+	~Pretence
+	=Camouflage
+	~None of these
+}
+
+
+// question: 18678  name: Choose the one which can be substituted for the given words/sentence: That ...
+::Choose the one which can be substituted for the given words/sentence\: That ...::[html]Choose the one which can be substituted for the given words/sentence\: That which cannot be done without{
+	~Irrevocable
+	~Impracticable
+	=Indispensable
+	~Impossible
+	~None of these
+}
+
+
+// question: 18689  name: Choose the one which can be substituted for the given words/sentence: The ...
+::Choose the one which can be substituted for the given words/sentence\: The ...::[html]Choose the one which can be substituted for the given words/sentence\: The advertisement assured the public that the medicines would give back to the users, their youthful vigour and appearance.{
+	=Rejuvenate
+	~Restore
+	~Replenish
+	~Render
+	~none of these
+}
+
+
+// question: 18667  name: Choose the one which can be substituted for the given words/sentence: The ...
+::Choose the one which can be substituted for the given words/sentence\: The ...::[html]Choose the one which can be substituted for the given words/sentence\: The original inhabitants of a country{
+	=Aborigines
+	~Citizens
+	~Natives
+	~Primitive
+	~None of these
+}
+
+
+// question: 18687  name: Choose the one which can be substituted for the given words/sentence: The ...
+::Choose the one which can be substituted for the given words/sentence\: The ...::[html]Choose the one which can be substituted for the given words/sentence\: The officer was no willing to take a definite stand on that point.{
+	~Vague
+	=Evasive
+	~Ambiguous
+	~Complex
+	~None of these
+}
+
+
+// question: 18684  name: Choose the one which can be substituted for the given words/sentence: The bus...
+::Choose the one which can be substituted for the given words/sentence\: The bus...::[html]Choose the one which can be substituted for the given words/sentence\: The bus has to go back and forth every six hours.{
+	~Travel
+	~Run
+	~Cross
+	=Shuttle
+	~Commute
+}
+
+
+// question: 18661  name: Choose the one which can be substituted for the given words/sentence: Through...
+::Choose the one which can be substituted for the given words/sentence\: Through...::[html]Choose the one which can be substituted for the given words/sentence\: Through which light cannot pass{
+	~Dull
+	~Dark
+	~Obscure
+	=Opaque
+	~None of these
+}
+
+
+// question: 18681  name: Choose the one which can be substituted for the given words/sentence: We are ...
+::Choose the one which can be substituted for the given words/sentence\: We are ...::[html]Choose the one which can be substituted for the given words/sentence\: We are looking forward to a good winter this year{
+	~Encouraging
+	~Getting
+	=Hoping
+	~Predicting
+	~Visualizing
+}
+
+
+// question: 18672  name: Choose the one which can be substituted for the given words/sentence: Yearly ...
+::Choose the one which can be substituted for the given words/sentence\: Yearly ...::[html]Choose the one which can be substituted for the given words/sentence\: Yearly celebration of a date of an event{
+	~Centenary
+	~Jubilee
+	=Anniversary
+	~Birthday
+	~None of these
+}
+
+
+// question: 18655  name: Choose the word which is nearest of the opposite of the word or phrase in ...
+::Choose the word which is nearest of the opposite of the word or phrase in ...::[html]Choose the word which is nearest of the opposite of the word or phrase in bracket\: He plunged into the (turbid) waters of the stream.{
+	~Deep
+	=muddy
+	~clear
+	~fresh
+	~none of these
+}
+
+
+// question: 18656  name: Choose the word which is nearest of the opposite of the word or phrase in ...
+::Choose the word which is nearest of the opposite of the word or phrase in ...::[html]Choose the word which is nearest of the opposite of the word or phrase in bracket\: Where (ignorance) is sometimes bliss, illiteracy is always considered a curse.{
+	~Erudition
+	~Experience
+	~Education
+	=Information
+	~None of these
+}
+
+
+// question: 18657  name: Choose the word which is nearest of the opposite of the word or phrase in ...
+::Choose the word which is nearest of the opposite of the word or phrase in ...::[html]Choose the word which is nearest of the opposite of the word or phrase in bracket\: The news brought by the maidservants (authentic).{
+	=Authoritative
+	~Baseless
+	~Ridiculous
+	~Vacuous
+	~None of these
+}
+
+
+// question: 18658  name: Choose the word which is nearest of the opposite of the word or phrase in ...
+::Choose the word which is nearest of the opposite of the word or phrase in ...::[html]Choose the word which is nearest of the opposite of the word or phrase in bracket\: The proposal was (denounced) by one and all.{
+	=Announced
+	~Pronounced
+	~Appraised
+	~Commended
+	~None of these
+}
+
+
+// question: 18659  name: Choose the word which is nearest of the opposite of the word or phrase in ...
+::Choose the word which is nearest of the opposite of the word or phrase in ...::[html]Choose the word which is nearest of the opposite of the word or phrase in bracket\: The doctor said that there is no (improvement) in the condition of the patient.{
+	~Depression
+	=Deterioration
+	~Changes
+	~Degradation
+	~None of these
+}

@@ -1,0 +1,7 @@
+[html]Choose the correct antonym for\: BANISHED{
+	~secluded
+	=embraced
+	~included
+	~loved
+	~Delivered
+}
